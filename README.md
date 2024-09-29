@@ -3,7 +3,7 @@
 - 🌱 Exploring areas include Smart Contracts, Block Chain, Augmented Reality & Mobile Apps.
 - 🎯 Target is to create world class Edtech Platform.
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub_Profile-Awesome-orange)](https://github.com/bhawani-fevtutor)
+![trophy](https://github-profile-trophy.vercel.app/?username=bhawani&theme=onestar&no-frame=true&row=1&column=3)
 
 ### Technologies & Tools
 
@@ -51,6 +51,7 @@
 
 ### 🤝 Buzz Me:
 [![Slack](https://img.shields.io/badge/-Slack-%234A154B?style=flat&logo=slack)](https://slack.com/invite/invitelink)
+[![GitHub Profile](https://img.shields.io/badge/GitHub_Profile-Awesome-orange)](https://github.com/bhawani-fevtutor)
 
 
 
