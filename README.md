@@ -1,5 +1,5 @@
 ## Hi, This is Bhawani 👋
-- 💻 Software Artist/Enthusiast passionate about building scalable systems.
+- 💻 Software Enthusiast passionate about building scalable systems.
 - 🌱 Exploring areas include Smart Contracts, Block Chain, Augmented Reality & Mobile Apps.
 - 🎯 Target is to create world class EdTech Platform.
 
