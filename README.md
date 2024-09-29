@@ -31,17 +31,12 @@
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](#)
 
 ### 🌟 Featured Projects:
-#### [Tutor Availability](https://github.com/bhawani-fevtutor/fev-tutor-availability)
-**Description:** Freelance Tutors manage their availability directly within the system. TL and the Operational Manager will manage Full-Time Tutor's availability.\
-**Technologies:** .Net8, Minimal Api, Oracle, Dapper
 
-#### [Self Service Scheduling - UI](https://github.com/bhawani-fevtutor/fev-tutor-self-service-scheduling-ui)
-**Description:** a React-based application designed to streamline scheduling processes.\
-**Technologies:** ReactJs, TypeScript, CSS, JavaScript, HTML
-
-#### [EnrollmentService](https://github.com/bhawani-fevtutor/EnrollmentService)
-**Description:** EnrollmentService is a .NET 8-based web API that provides functionality to manage student enrollments.\
-**Technologies:** .Net8, Minimal Api, Oracle, Dapper, Serilog
+| Project Name | Description | Technologies | Link |
+|---|---|---|---|
+| Tutor Availability | Freelance Tutors manage their availability directly within the system. TL and the Operational Manager will manage Full-Time Tutor's availability. | ![.NET 8](https://img.shields.io/badge/.NET%208-blue) ![Oracle](https://img.shields.io/badge/Oracle-blue) ![Minimal Api](https://img.shields.io/badge/MinimalApi-blue) ![Dapper](https://img.shields.io/badge/Dapper-blue) | [Tutor Availability](https://github.com/bhawani-fevtutor/fev-tutor-availability) |
+| Self Service Scheduling - UI | A React-based application designed to streamline scheduling processes. | ![ReactJs](https://img.shields.io/badge/ReactJs-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-blue) ![CSS](https://img.shields.io/badge/CSS-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-blue) ![HTML](https://img.shields.io/badge/HTML-blue) | [Self Service Scheduling - UI](https://github.com/bhawani-fevtutor/fev-tutor-self-service-scheduling-ui) |
+| EnrollmentService | A .NET 8-based web API that provides functionality to manage student enrollments. | ![.NET 8](https://img.shields.io/badge/.NET%208-blue) ![Minimal Api](https://img.shields.io/badge/MinimalApi-blue) ![Oracle](https://img.shields.io/badge/Oracle-blue) ![Dapper](https://img.shields.io/badge/Dapper-blue) ![Serilog](https://img.shields.io/badge/Serilog-blue) | [EnrollmentService](https://github.com/bhawani-fevtutor/EnrollmentService) |
 
 ### GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bhawani-fevtutor&show_icons=true&theme=merko)
